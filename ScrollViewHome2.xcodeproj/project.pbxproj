@@ -14,6 +14,7 @@
 		456953EE295E045300139A48 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 456953ED295E045300139A48 /* Assets.xcassets */; };
 		456953F1295E045300139A48 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 456953EF295E045300139A48 /* LaunchScreen.storyboard */; };
 		459104DA295E14AD00C8A5EA /* FirstVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 459104D9295E14AD00C8A5EA /* FirstVC.swift */; };
+		E0D786CA29A8F66100501EEA /* Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0D786C929A8F66100501EEA /* Book.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		456953F0295E045300139A48 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		456953F2295E045300139A48 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		459104D9295E14AD00C8A5EA /* FirstVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstVC.swift; sourceTree = "<group>"; };
+		E0D786C929A8F66100501EEA /* Book.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Book.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				456953E4295E045300139A48 /* AppDelegate.swift */,
 				456953E6295E045300139A48 /* SceneDelegate.swift */,
 				456953E8295E045300139A48 /* ViewController.swift */,
+				E0D786C929A8F66100501EEA /* Book.swift */,
 				456953EA295E045300139A48 /* Main.storyboard */,
 				459104D9295E14AD00C8A5EA /* FirstVC.swift */,
 				456953ED295E045300139A48 /* Assets.xcassets */,
@@ -144,6 +147,7 @@
 				456953E9295E045300139A48 /* ViewController.swift in Sources */,
 				459104DA295E14AD00C8A5EA /* FirstVC.swift in Sources */,
 				456953E5295E045300139A48 /* AppDelegate.swift in Sources */,
+				E0D786CA29A8F66100501EEA /* Book.swift in Sources */,
 				456953E7295E045300139A48 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
