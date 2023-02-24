@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("Hello")
+        print("Hello")
 //        setupScrollView()
         // Do any additional setup after loading the view.
     }
